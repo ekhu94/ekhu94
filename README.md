@@ -15,19 +15,13 @@
 
 <h2>Technologies</h2>
 
-<h3>Programming Languages</h3>
-
-<p>
-    <img style="width:40px;" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img style="width:40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-    <img style="width:40px;" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
-</p>
-
 <h3>Front End</h3>
 
 <p>
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="40" height="40"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="40" height="40"/> 
+	<img style="width:40px;" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img style="width:40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="40" height="40"/> 
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="40" height="40"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="40" height="40"/>
@@ -40,6 +34,7 @@
 <p>
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="40" height="40"/>
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="40" height="40"/>
+	<img style="width:40px;" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
     <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" alt="ror" width="40" height="40">
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" alt=postgresql width="40" height="40"/>
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="40" height="40"/> 
