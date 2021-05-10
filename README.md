@@ -10,7 +10,7 @@
 <h2>I'm a recent Flatiron graduate and web developer.</h2>
 
 <p>
-    I specialize in building scalable web applications and working across the full stack. With a background in music and education, my greatest passion in life is learning and mastering new languages, whether it be Japanese or Javascript. I love tackling new problems head-on and strive to never stop on my learning journey.
+    I specialize in building scalable web applications and working across the full stack. With a background in music and education, my greatest passion in life is learning and mastering new languages, whether it be Japanese or Javascript. I love tackling coding problems head-on and strive to never stop on my learning journey.
 </p>
 
 <h2>Technologies</h2>
