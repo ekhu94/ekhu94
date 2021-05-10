@@ -68,7 +68,7 @@
 
 <h2>GitHub Stats</h2>
 
-<p style="display:flex;align-items:top">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekhu94" height="250" alt="Most Used Languages Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api?username=ekhu94&count_private=true&show_icons=true" width="500" height="250" alt="GitHub Stats Dashboard">
+<p style="display:flex;align-items:top;justify-content:space-between">
+    <img src="https://github-readme-stats.vercel.app/api?username=ekhu94&count_private=true&show_icons=true" width="600" alt="GitHub Stats Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekhu94" height="260" alt="Most Used Languages Dashboard">
 </p>
