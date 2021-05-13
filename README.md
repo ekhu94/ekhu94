@@ -49,12 +49,13 @@
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="40" height="40"/>
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=heroku width="40" height="40"/>
     <img style="margin:auto" width="40" height="40" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+    <img style="margin:auto" width="40" height="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 </p>
 
 <h3>Currently Learning</h3>
 
 <p>
-    <img style="width:40px;height:40px;" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1620875271~hmac=47e98633f3e5ee7cd14d1bccf29c2a05"/>
+    <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
     <img style="margin:auto;width:40px;height:40px;" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 </p>
 
