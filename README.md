@@ -54,7 +54,7 @@
 <h3>Currently Learning</h3>
 
 <p>
-    <img style="width:40px;height:40px;" src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img style="width:40px;height:40px;" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1620875271~hmac=47e98633f3e5ee7cd14d1bccf29c2a05"/>
     <img style="margin:auto;width:40px;height:40px;" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 </p>
 
