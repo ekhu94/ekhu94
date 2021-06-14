@@ -61,7 +61,7 @@
 
 <h2>Latest Blog Posts</h2>
 
-- [Reducing Code Duplication in RSpec] (https://ekhu94.medium.com/reducing-code-duplication-in-rspec-4763f9de7259)
+- [Reducing Code Duplication in RSpec](https://ekhu94.medium.com/reducing-code-duplication-in-rspec-4763f9de7259)
 - [Mastering the useEffect Hook in React](https://ekhu94.medium.com/master-the-useeffect-hook-in-react-f1ae8a3b0614)
 - [Class-Based Components in React](https://ekhu94.medium.com/class-based-components-in-react-5af10587473f)
 - [Sending HTTP Requests with Axios](https://ekhu94.medium.com/sending-basic-http-requests-with-axios-614d385c0937)
