@@ -59,8 +59,9 @@
     <img style="margin:auto;width:40px;height:40px;" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 </p>
 
-<h2>Latest Blog Posts</h2>
+<h2>Blog Posts</h2>
 
+- [A Guide to RSpec Built-in Matchers Part 1](https://ekhu94.medium.com/a-guide-to-rspec-built-in-matchers-ad7529337b81)
 - [Reducing Code Duplication in RSpec](https://ekhu94.medium.com/reducing-code-duplication-in-rspec-4763f9de7259)
 - [Mastering the useEffect Hook in React](https://ekhu94.medium.com/master-the-useeffect-hook-in-react-f1ae8a3b0614)
 - [Class-Based Components in React](https://ekhu94.medium.com/class-based-components-in-react-5af10587473f)
