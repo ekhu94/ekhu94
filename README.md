@@ -61,10 +61,10 @@
 
 <h2>Blog Posts</h2>
 
+- [A Guide to RSpec Built-in Matchers Part 2](https://ekhu94.medium.com/a-guide-to-rspec-built-in-matchers-part-2-8035ab9a4afb)
 - [A Guide to RSpec Built-in Matchers Part 1](https://ekhu94.medium.com/a-guide-to-rspec-built-in-matchers-ad7529337b81)
 - [Reducing Code Duplication in RSpec](https://ekhu94.medium.com/reducing-code-duplication-in-rspec-4763f9de7259)
 - [Mastering the useEffect Hook in React](https://ekhu94.medium.com/master-the-useeffect-hook-in-react-f1ae8a3b0614)
-- [Class-Based Components in React](https://ekhu94.medium.com/class-based-components-in-react-5af10587473f)
 - [Sending HTTP Requests with Axios](https://ekhu94.medium.com/sending-basic-http-requests-with-axios-614d385c0937)
 - [The Fundamentals of Recursion](https://ekhu94.medium.com/the-basics-of-recursion-7e2441aaf1a2)
 - [An Introduction to Big-O Notation (in English and Japanese)](https://ekhu94.medium.com/an-introduction-to-big-o-notation-5784d7fe8d29)
