@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ekhu94/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ekhu94@gmail.com)
 
-<h2>I'm a recent Flatiron graduate and web developer.</h2>
+<h2>I'm a software engineer at SkillsEngine.</h2>
 
 <p>
     I specialize in building scalable web applications and working across the full stack. With a background in music and education, my greatest passion in life is learning and mastering new languages, whether it be Japanese or Javascript. I love tackling coding problems head-on and strive to never stop on my learning journey.
