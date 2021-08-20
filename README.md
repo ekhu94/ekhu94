@@ -25,7 +25,7 @@
     <img style="width:40px;height:40px;" src="https://img.icons8.com/color/48/000000/typescript.png"/>
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="40" height="40"/> 
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="40" height="40"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/babel.png" alt=babel width="40" height="40"/> 
+	<img style="margin: auto;" src="https://cdn.iconscout.com/icon/free/png-256/ember-283282.png" alt=ember width="40" height="40"/> 
 	
 </p>
 
@@ -36,6 +36,7 @@
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="40" height="40"/>
 	<img style="width:40px;height:40px;" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
     <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" alt="ror" width="40" height="40">
+	<img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" alt=postgresql width="40" height="40"/>
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="40" height="40"/> 
 </p>
@@ -55,7 +56,7 @@
 <h3>Currently Learning</h3>
 
 <p>
-    <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
+    <img style="width:40px;height:40px;" src="https://img.icons8.com/color/48/000000/python.png"/>
     <img style="margin:auto;width:40px;height:40px;" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 </p>
 
