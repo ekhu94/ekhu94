@@ -1,6 +1,6 @@
 <link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 
-# Hello there! My name is Erik 👋🏼🤓
+# Hello there! I'm Erik 👋🏼🤓
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ekhu94)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erik-huang-954a041a1/)
